@@ -49,7 +49,7 @@ Los datos fueron extraídos de los resultados de la décima Encuesta Nacional de
 
         -   “Las mujeres que tienen hijos o hijas se sienten más realizadas que aquellas que no tienen hijos o hijas”
 
-# Visualización de datos
+# Visualización de datos {background-color="#F6C0BA"}
 
 ![](MaterGrafico.png){.r-stretch}
 
@@ -72,7 +72,7 @@ Se puede observar que por cada unidad en que se aumenta la educación (respecto 
 
 ::: columns
 ::: {.column width="40%"}
-Al observar el gráfico podemos decir que las variables tienen una asociación negativa, pues se puede observar que a medida que aumenta el nivel educacional o educación alcanzada por mujeres entre 26 y 29 años, disminuyen las ideas maternalistas en general.
+Al observar el gráfico podemos decir que las variables tienen una asociación negativa, pues se puede observar que a medida que aumenta el nivel educacional de mujeres entre 26 y 29 años, disminuyen las ideas maternalistas en general.
 :::
 
 ::: {.column width="60%"}

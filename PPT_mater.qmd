@@ -90,10 +90,7 @@ Al observar el gráfico podemos decir que las variables tienen una asociación n
 
 
 :::
-:::
-:::
-:::
-:::
+
 
 # Conclusión {background-color="#F6C0BA"}
 
